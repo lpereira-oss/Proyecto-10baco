@@ -11,7 +11,7 @@ Primer proyecto colaborativo de 10 baco
 **¿Sirve solo para programadores? ¿Por qué?**
   No,  porque también puede servir para hacer otro tipo de trabajos. 
 
-**¿Han utilizado alguna plataforma para guardar archivos o trabajar con otros? **
+**¿Han utilizado alguna plataforma para guardar archivos o trabajar con otros?**
  Si 
 
 **Tres palabras relacionadas con github:**
