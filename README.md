@@ -2,19 +2,19 @@
 Primer proyecto colaborativo de 10 baco
 
 # ACTIVIDAD 1
-**¿Qué creen que significa GITHUB? **
+**¿Qué creen que significa GITHUB?**
    Donde se guardan los archivos
 
-**¿Para qué creen que puede servir? **
+**¿Para qué creen que puede servir?**
  Para guardar archivos de trabajo en equipo.
 
-**¿Sirve solo para programadores? ¿Por qué? **
+**¿Sirve solo para programadores? ¿Por qué?**
   No,  porque también puede servir para hacer otro tipo de trabajos. 
 
 **¿Han utilizado alguna plataforma para guardar archivos o trabajar con otros? **
  Si 
 
-**Tres palabras relacionadas con github: **
+**Tres palabras relacionadas con github:**
 - archivo
 - nube 
 - espacio 
@@ -38,7 +38,7 @@ Primer proyecto colaborativo de 10 baco
  3. Un commit sirve para guardar los cambios
 
 # ACTIVIDAD 3
-** ¿Por qué creer que cada integrante debe de tener su propia cuenta? **
+**¿Por qué creer que cada integrante debe de tener su propia cuenta?**
  Porque cada se puede guardar el registro de los cambios realizados y cada persona puede trabajar en diferentes lugares y de forma independiente 
 
 # ACTIVIDAD 4
@@ -47,18 +47,18 @@ Primer proyecto colaborativo de 10 baco
 
 
 # ACTIVIDAD 5
-**¿Qué creen que significa la extensión .md de README.md? **
+**¿Qué creen que significa la extensión .md de README.md?**
   Para indicar como está escrito el documento. 
 
   
 # ACTIVIDAD 6
-**¿Cuántos cambios aparecen? **
+**¿Cuántos cambios aparecen?**
 Aparecen 3 cambios.
 
-**¿Quién realizó el cambio? **
+**¿Quién realizó el cambio?**
 pereira-oss 
 
-**¿Qué mensaje tiene el comité? **
+**¿Qué mensaje tiene el comité?**
 No le pusimos descripción 
 
 
@@ -68,25 +68,25 @@ Porque deja que cada persona aporte diferentes cosas que mejora el proyecto
 
 
 # ACTIVIDAD  8 
-**¿Qué es Github? **
+**¿Qué es Github?**
 -Les: Es una aplicación que nos ayuda a poder trabajar en equipo y también guardar archivos  en la nube .
 -Tamara: Es una app que guarda los documentos en la nube y permite trabajar en equipos. 
 
 
-**¿Qué es un repositorio? **
+**¿Qué es un repositorio?**
 -Les: Es donde nos ayuda para poder guardar información física o digital
 -Tamara: Es un lugar para guardar de forma segura documentos. 
 
-**¿Qué es un commit? **
+**¿Qué es un commit?**
 -les: Es cuando se registra algún cambio dentro del programa  o el proyecto.
 -Tamara: Es una captura que guarda los cambios que se hicieron en ese momento. 
 
-**¿Qué es un readme? **
+**¿Qué es un readme?**
 -Les: Es un manual para ver y seguir instrucciones acerca de un proyecto
 -Tamara: Es un documento que tiene las bases de un proyecto. 
 
 
-**¿Qué fue lo más interesante que aprendí? **
+**¿Qué fue lo más interesante que aprendí?**
 -Les:Lo más interesante fue el ver como se usa la aplicación y el cómo funciona .
 -Tamara: Creo que fue el saber que hay este tipo de aplicaciones para trabajar en equipo y en diferentes lugares y poder guardarlos de forma segura. 
 
