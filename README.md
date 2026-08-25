@@ -49,3 +49,15 @@ Primer proyecto colaborativo de 10 baco
 # ACTIVIDAD 5
 **¿Qué creen que significa la extensión .md de README.md? **
   Para indicar como está escrito el documento. 
+
+  
+# ACTIVIDAD 6
+**¿Cuántos cambios aparecen? **
+Aparecen 3 cambios.
+
+¿Quién realizó el cambio? 
+pereira-oss 
+
+¿Qué mensaje tiene el comité? 
+No le pusimos descripción 
+
