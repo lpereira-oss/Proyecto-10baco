@@ -55,9 +55,43 @@ Primer proyecto colaborativo de 10 baco
 **¿Cuántos cambios aparecen? **
 Aparecen 3 cambios.
 
-¿Quién realizó el cambio? 
+**¿Quién realizó el cambio? **
 pereira-oss 
 
-¿Qué mensaje tiene el comité? 
+**¿Qué mensaje tiene el comité? **
 No le pusimos descripción 
+
+
+# ACTIVIDAD 7
+**¿Por que es util github permite que varias personas trabajen en un mismo proyecto?**
+Porque deja que cada persona aporte diferentes cosas que mejora el proyecto
+
+
+# ACTIVIDAD  8 
+**¿Qué es Github? **
+-Les: Es una aplicación que nos ayuda a poder trabajar en equipo y también guardar archivos  en la nube .
+-Tamara: Es una app que guarda los documentos en la nube y permite trabajar en equipos. 
+
+
+**¿Qué es un repositorio? **
+-Les: Es donde nos ayuda para poder guardar información física o digital
+-Tamara: Es un lugar para guardar de forma segura documentos. 
+
+**¿Qué es un commit? **
+-les: Es cuando se registra algún cambio dentro del programa  o el proyecto.
+-Tamara: Es una captura que guarda los cambios que se hicieron en ese momento. 
+
+**¿Qué es un readme? **
+-Les: Es un manual para ver y seguir instrucciones acerca de un proyecto
+-Tamara: Es un documento que tiene las bases de un proyecto. 
+
+
+**¿Qué fue lo más interesante que aprendí? **
+-Les:Lo más interesante fue el ver como se usa la aplicación y el cómo funciona .
+-Tamara: Creo que fue el saber que hay este tipo de aplicaciones para trabajar en equipo y en diferentes lugares y poder guardarlos de forma segura. 
+
+**¿Qué necesito seguir practicando?**
+-Les: necesito seguir utilizando la aplicación para seguir aprendiendo y mejorando en ella.
+-Tamara: Seguir investigando cómo se utilizan para poder usarla de forma correcta. 
+
 
