@@ -3,16 +3,16 @@ Primer proyecto colaborativo de 10 baco
 
 # ACTIVIDAD 1
 **¿Qué creen que significa GITHUB? **
-  - Donde se guardan los archivos
+   Donde se guardan los archivos
 
 **¿Para qué creen que puede servir? **
- - Para guardar archivos de trabajo en equipo.
+ Para guardar archivos de trabajo en equipo.
 
 **¿Sirve solo para programadores? ¿Por qué? **
-- No,  porque también puede servir para hacer otro tipo de trabajos. 
+  No,  porque también puede servir para hacer otro tipo de trabajos. 
 
 **¿Han utilizado alguna plataforma para guardar archivos o trabajar con otros? **
-- Si 
+ Si 
 
 **Tres palabras relacionadas con github: **
 - archivo
@@ -33,10 +33,19 @@ Primer proyecto colaborativo de 10 baco
 - Readme: Es como un manual de instrucciones de un proyecto. 
 
 
-- 1.Github sirve principalmente para almacenar proyectos en equipo
-- 2. Un repositorio es un lugar donde protegen la información
-- 3. Un commit sirve para guardar los cambios
+ 1.Github sirve principalmente para almacenar proyectos en equipo
+ 2. Un repositorio es un lugar donde protegen la información
+ 3. Un commit sirve para guardar los cambios
 
 # ACTIVIDAD 3
 ** ¿Por qué creer que cada integrante debe de tener su propia cuenta? **
-- Porque cada se puede guardar el registro de los cambios realizados y cada persona puede trabajar en diferentes lugares y de forma independiente 
+ Porque cada se puede guardar el registro de los cambios realizados y cada persona puede trabajar en diferentes lugares y de forma independiente 
+
+# ACTIVIDAD 4
+**¿Por qué creemos que se utiliza un repositorio para desarrollar un proyecto?**
+ Para poder asegurarse de que el proyecto que guardado en un lugar seguro. 
+
+
+# ACTIVIDAD 5
+**¿Qué creen que significa la extensión .md de README.md? **
+  Para indicar como está escrito el documento. 
